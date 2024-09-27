@@ -1,0 +1,202 @@
+.home_page{
+    background-image: url(Group\ 57.png);
+    background-color: black;
+    overflow: hidden;
+    height: 1080px;
+    
+    
+    
+}
+.home{
+    display: flex;
+    justify-content: space-between;
+    
+    padding-top: 70px;
+}
+.nav{
+    display: flex;
+    text-align: center;
+    gap: 31px;
+    margin-top: auto;
+    
+}
+
+.english{   
+    display: flex;
+    width: 242px;
+    height: 50px;
+    border-style:  solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;    
+    color: white;  
+    /*padding-bottom: 30px;*/    
+    border-radius: 5px; 
+    align-items: center;
+   
+}
+
+.icon{
+   
+    padding-bottom: 11px;
+    padding-top: 13px;
+    padding-left: 20px;
+}
+
+.language{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: left;
+    padding-left: 16px;
+
+
+}
+
+.dropdown{
+    padding-bottom: 19px;
+    padding-top: 19px;
+    padding-left: 18px;
+}
+.sign{
+    margin-top: 0%;
+    margin-right: 80px;
+    
+    width: 189px;
+    height: 50px;
+    color: white;
+    border-radius: 6px;
+    background-color: #C80A0A;
+    
+  
+       
+}
+.signin{
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 28px;
+    /*line-height: 0px;*/
+    justify-self: center;
+    text-align: center;
+    line-height: 0px;
+
+}
+.unlimited{
+    margin-top: 268px;
+    color: white;
+    text-align:center;
+    font-size: 45px;
+}
+.watch{
+    text-align: center;
+    padding-top: 37px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 600;
+    color: white;
+}
+.ready{
+
+}
+.sectwo{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.sentence{
+    margin-left: 139px;
+    margin-top: 266px;
+}
+.enjoy{
+    font-family: Inter;
+    font-size: 55px;
+    font-weight: 800;
+    line-height: 66.56px;
+    text-align: left;
+}
+.smart{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36.31px;
+    text-align: left;
+
+}
+.netflix2{
+    margin-top: 213px;
+    margin-bottom: 169px;
+}
+.secthree{
+    background-color: black;
+    color: white;
+    display: flex;    
+}
+.copy1{
+    margin-top: 223px;
+    margin-bottom: 169px;
+}
+.copy2{
+    font-family: Inter;
+    font-size: 55px;
+    font-weight: 800;
+    line-height: 66.56px;
+    text-align: left;    
+}
+.copy3{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36.31px;
+    text-align: left;    
+}
+.secfour{
+    background-color: black;
+    display: flex;
+    color: white;
+}
+.sentence2{
+    margin-left: 139px;
+    
+}
+.anywhere{
+    font-family: Inter;
+    font-size: 55px;
+    font-weight: 800;
+    line-height: 66.56px;
+    text-align: left;
+    margin-top: 123px;
+}
+.stream{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36.31px;
+    text-align: left;
+}
+.secfive{
+    background-color: black;
+    color: white;
+    display:flex;
+    
+}
+.words{
+    margin-bottom: 169px;
+}
+.profiles{
+    font-family: Inter;
+    font-size: 55px;
+    font-weight: 800;
+    line-height: 66.56px;
+    text-align: left;
+    margin-top: 213px;
+}
+.sentence3{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36.31px;
+    text-align: left;
+
+}
+
+
