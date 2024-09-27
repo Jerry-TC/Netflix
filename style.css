@@ -133,7 +133,7 @@
 }
 .copy1{
     margin-top: 223px;
-    margin-bottom: 169px;
+    /*margin-bottom: 169px;*/
 }
 .copy2{
     font-family: Inter;
@@ -180,7 +180,7 @@
     
 }
 .words{
-    margin-bottom: 169px;
+   /* margin-bottom: 169px;*/
 }
 .profiles{
     font-family: Inter;
